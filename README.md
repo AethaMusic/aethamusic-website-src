@@ -3,10 +3,10 @@
 Generated on 2020-05-03 using
 [generator-yeogurt@3.1.2](https://github.com/larsonjj/generator-yeogurt)
 
-**npm run serve** for previewing your site/app on a development server.
-**npm run serve:prod** for previewing a production version of your site/app.
-**npm run build** builds a production version of your site.
-**npm test** for linting your scripts and running unit tests.
+- **npm run serve** for previewing your site/app on a development server.
+- **npm run serve:prod** for previewing a production version of your site/app.
+- **npm run build** builds a production version of your site.
+- **npm test** for linting your scripts and running unit tests.
 
 ## Description
 
