@@ -1,6 +1,6 @@
-node_modules/
-bower_components/
+node_modules
 *.log
-
-build/
-dist/
+build
+tmp
+.grunt
+.DS_Store
