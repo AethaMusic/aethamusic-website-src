@@ -13,18 +13,18 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165426040-1"></script>
   <script>
-  /*
+  
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-165426040-1');
-    */
+    
   </script>
 
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <title>Aetha Music</title>
-    <meta name="description" content="A new Yeogurt application"/>
+    <meta name="description" content="Aetha Music - Official Home of Aetha"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
@@ -45,8 +45,10 @@
     <![endif]-->
 
     {% block content %}{% endblock %}
-
+    <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+    
+    <!--
     <script src="{{baseUrl}}scripts/main.js"></script>
-    {% block scripts %}{% endblock %}
+    -->
   </body>
 </html>

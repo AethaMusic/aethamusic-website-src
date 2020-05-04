@@ -1,0 +1,24 @@
+{% extends '_layouts/base.nunjucks' %}
+
+{% block content %}
+
+<div class="container">
+
+    <div class="main-container center">
+        
+        {% include './_includes/logo.nunjucks' %}
+
+        <p class="large text-center">YOU'RE IN!</p>
+
+        <p class="text-center">Thank you! Thank you! Thank you! </p>
+
+        <p class="text-center">I'll be in touch soon! In the mean time, please connect with me on socials... talk soon :) </p>
+
+        {% include './_includes/socials.nunjucks' %}
+
+    </div>
+
+
+</div>
+
+{% endblock %}
