@@ -23,7 +23,7 @@ body {
 body {
   font-family: 'Source Code Pro', monospace;
   font-size: 16px;
-  background: url('../images/background.jpg') no-repeat center center fixed #0A0917; 
+  background: url('../images/background2.jpg') no-repeat center center fixed white; 
   color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -36,8 +36,8 @@ body {
   min-height: 100%;
 	display: flex;
   flex-direction: column;
-  background: rgb(10,9,23);
-  background: linear-gradient(0deg, rgba(10,9,23,1) 0%, rgba(10,9,23,0.65) 50%, rgba(10,9,23,0) 90%);
+  background: rgba(10,9,23,0.3);
+  background: linear-gradient(0deg, rgba(10,9,23,.7) 0%, rgba(101, 99, 131, 0.45) 60%, rgba(10,9,23,0.2) 100%);
 }
 
 #logo {
